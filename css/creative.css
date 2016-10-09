@@ -46,6 +46,22 @@ p {
   background-color: black;
   background-image: url('../img/aboutme.jpg');
 }
+
+.bg-primary-oracle {
+  background-color: black;
+  background-image: url('../img/oraclebg.jpg');
+}
+
+.bg-primary-contact {
+  background-color: black;
+  background-repeat: no-repeat;
+}
+
+.bg-primary-experience {
+  background-color: floralwhite;
+  background-repeat: no-repeat;
+}
+
 .bg-dark {
   background-color: #222222;
   color: white;
@@ -54,7 +70,7 @@ p {
   color: rgba(255, 255, 255, 0.7);
 }
 section {
-  padding: 100px 0;
+  padding: 10px 0;
 }
 aside {
   padding: 50px 0;
@@ -62,6 +78,7 @@ aside {
 .no-padding {
   padding: 0;
 }
+
 .navbar-default {
   background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
